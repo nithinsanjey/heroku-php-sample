@@ -8,16 +8,13 @@
  	<ul>
  		<li>Technology views:
  			<ul>
- 				<li>Jquery</li>
+ 				<li>Why Jquery?</li>
  				<li>IBM Watson</li>
  			</ul>
  		</li>
  		<li>Special guest articles:
- 			<ul>UV Sankar's guide</ul>
- 		</li>
- 		<li>General articles:
  			<ul>
- 				<li></li>
+ 				<li>UV Sankar's "Getting most out of CEG".</li>
  			</ul>
  		</li>
  		<li>Ideas:
@@ -29,6 +26,24 @@
  		<li>Miscellaneous:
  			<ul>
  				<li>Trignomentry and earth</li>
+ 			</ul>
+ 		</li>
+ 		<li>General articles:
+ 			<ul>
+ 				<li>Sacred verses, our brain and above all the wantedness.</li>
+ 				<li>My mouse – the optical one</li>
+ 				<li>UK Trip – Learning</li>
+ 				<li>Agile is NOT cheap product delivery.</li>
+ 				<li>Lesson from Engineering mathematics 1</li>
+ 				<li>On watching/reading news</li>
+ 				<li>Seed balls – Growing trees naturally</li>
+ 				<li>Book review – The Phantom Tollbooth by Norton Juster.</li>
+ 				<li>Why is TN’s campaign winning every election?</li>
+ 				<li>Courageous thing that I recently read</li>
+ 				<li>Defense Of The Ancient – A 1.2k mmr perspective.</li>
+ 				<li>Too much philosophy in one page</li>
+ 				<li>The loss for gain</li>
+ 				<li>‘The Da Vinci Code’ by Dan Brown</li>
  			</ul>
  		</li>
  		<li>Other places I love and hang out:
