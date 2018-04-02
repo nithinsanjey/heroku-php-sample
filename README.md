@@ -1,2 +1,2 @@
-# heroku-php-sample
-Sample - just a hello world, maybe.
+# My Website
+This happens to be my websites repository
