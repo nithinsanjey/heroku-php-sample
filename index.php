@@ -8,17 +8,18 @@
  	<ul>
  		<li>Technology views:
  			<ul>
- 				<li>Why Jquery?</li>
- 				<li>IBM Watson</li>
+ 				<li>Why I used <a href="jquery.html">Jquery?</a></li>
+ 				<li>My wonder on <a href="watson.html">IBM Watson's</a> demo</li>
  			</ul>
  		</li>
  		<li>Special guest articles:
  			<ul>
- 				<li>UV Sankar's "Getting most out of CEG".</li>
+ 				<li>UV Sankar's <a href="most-out-of-ceg.html">"Getting most out of CEG"</a>.</li>
  			</ul>
  		</li>
  		<li>Ideas:
  			<ul>
+ 				<li>Tamil typeracer</li>
  				<li>Braille</li>
  				<li>Time logger</li>
  			</ul>
@@ -31,16 +32,16 @@
  		<li>General articles:
  			<ul>
  				<li>Sacred verses, our brain and above all the wantedness.</li>
- 				<li>My mouse – the optical one</li>
- 				<li>UK Trip – Learning</li>
+ 				<li>My mouse - the optical one</li>
+ 				<li>UK Trip - Learning</li>
  				<li>Agile is NOT cheap product delivery.</li>
  				<li>Lesson from Engineering mathematics 1</li>
  				<li>On watching/reading news</li>
- 				<li>Seed balls – Growing trees naturally</li>
- 				<li>Book review – The Phantom Tollbooth by Norton Juster.</li>
+ 				<li>Seed balls - Growing trees naturally</li>
+ 				<li>Book review - The Phantom Tollbooth by Norton Juster.</li>
  				<li>Why is TN’s campaign winning every election?</li>
  				<li>Courageous thing that I recently read</li>
- 				<li>Defense Of The Ancient – A 1.2k mmr perspective.</li>
+ 				<li>Defense Of The Ancient - A 1.2k mmr perspective.</li>
  				<li>Too much philosophy in one page</li>
  				<li>The loss for gain</li>
  				<li>‘The Da Vinci Code’ by Dan Brown</li>

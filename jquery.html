@@ -1,0 +1,81 @@
+<body style="max-width:600px">
+</body>
+
+<h3>Why jQuery?</h3>
+<h5>March 21, 2015</h5>
+
+<p>Probably there are millions of sites and blogs listing the advantages of jQuery.
+But in this article I would like to share why I use jQuery and how it helps me
+out.</p>
+
+<p>I initially started up with learning  HTML and CSS. Then I continued with
+javascript. After learning javascript and stepping into jQuery, everything was
+so simple that it was like cheating. But later I understood that it was the main
+objective of jQuery "write less, do more."</p>
+
+<p><b>What is jQuery?</b></p>
+
+<p>jQuery is a javascript library which has many functions that can be loaded and
+used. In easy words, jQuery is a javascript program that has functions for many
+useful javascript implementations that can be made use by including jQuery. It
+makes writing javascript much easier.  jQuery as the name indicates is used for
+'querying' for a particular or set of elements.</p>
+
+<p>For example if we want to find the width of an element using javascript, first
+we need to select the element which can be done by</p>
+
+<p>var myElement=document.getElementById("myEle");</p>
+
+<p>But in jQuery it is like,</p>
+
+<p>var myElement=$("#myEle");</p>
+
+<p>And yes, as you can see from the above example, jQuery uses CSS selectors for
+querying.</p>
+
+<p>Now let us see a few awesome things about jQuery for which I use it.</p>
+
+<p><b>1) Simple Querying using CSS selectors.</b></p>
+
+<p>As seen above jQuery uses CSS selectors for selecting elements we need which
+makes it easy for going with simple selection of an element to a group of
+elements. For example,</p>
+
+<p>$("#myEle");      //selects an element of id myEle</p>
+<p>$(".myGrp");      //selects elements of class myGrp</p>
+<p>$("p");           //selects all the p(paragraph) elements</p>
+<p>$("ul li");       //selects all the li elements in all ul(unordered lists)</p>
+<p>$("ul#fav li");   //selects all li in a ul of id fav</p>
+
+<p>Pretty cool, right.</p>
+
+<p><b>2) Cross browser compatibility.</b></p>
+
+<p>Javascript programs for certain implementations are not all same across
+different browsers. But with jQuery you need not worry about cross-browser
+working of your code as jQuery handles that for you.</p>
+
+<p><b>3) Animation.</b></p>
+
+<p>jQuery provides us with its own animation functions such as slideDown(),
+slideUp(), fadeIn(), fadeOut(), …etc an it also provides a animate() function
+for our own custom animations. For example,</p>
+
+<p>("#myDiv").fadeOut().fadeIn();</p>
+
+<p>is a simple one liner for making the element with id “myDiv” fade out and fade
+in consecutively. Using this with a continuous loop we can make a continuous
+fade out and fade in of the element. For example,</p>
+
+<p>setTimeOut(function(){</p>
+<p>$("#myDiv").fadeOut().fadeIn();</p>
+<p>},1000);</p>
+
+<p>makes the "myDiv" element to fade out and fade in every one second.</p>
+
+<p><b>4) AJAX.</b></p>
+
+<p>AJAX (Asynchronous Javascript and XML) is a very useful method by which we can
+make a request to a server without reloading the page. jQuery provides a
+function $.ajax() for the implementation of AJAX and it is very handy in any web
+project.</p>
