@@ -31,9 +31,9 @@
  		</li>
  		<li>General articles:
  			<ul>
- 				<li>Sacred verses, our brain and above all the wantedness.</li>
- 				<li>My mouse - the optical one</li>
- 				<li>UK Trip - Learning</li>
+ 				<li><a href="sacred-verses-brain.html">Sacred verses, our brain and above all the wantedness.</a></li>
+ 				<li><a href="my-optical-mouse.html">My mouse</a> - the optical one</li>
+ 				<li><a href="uk-trip.html">UK Trip</a> - Learning</li>
  				<li>Agile is NOT cheap product delivery.</li>
  				<li>Lesson from Engineering mathematics 1</li>
  				<li>On watching/reading news</li>
