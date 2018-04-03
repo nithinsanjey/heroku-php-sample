@@ -34,17 +34,17 @@
  				<li><a href="sacred-verses-brain.html">Sacred verses, our brain and above all the wantedness.</a></li>
  				<li><a href="my-optical-mouse.html">My mouse</a> - the optical one</li>
  				<li><a href="uk-trip.html">UK Trip</a> - Learning</li>
- 				<li>Agile is NOT cheap product delivery.</li>
- 				<li>Lesson from Engineering mathematics 1</li>
- 				<li>On watching/reading news</li>
- 				<li>Seed balls - Growing trees naturally</li>
- 				<li>Book review - The Phantom Tollbooth by Norton Juster.</li>
- 				<li>Why is TN’s campaign winning every election?</li>
+ 				<li><a href="agileisNOT.html">Agile is NOT cheap product delivery.</a></li>
+ 				<li><a href="engineeringmath.html">Lesson from Engineering mathematics 1</a></li>
+ 				<li><a href="onnews.html">On watching/reading news</a></li>
+ 				<li><a href="seedballs.html">Seed balls</a> - Growing trees naturally</li>
+ 				<li>Book review - <a href="phantomtollbooth.html">The Phantom Tollbooth</a> by Norton Juster.</li>
+ 				<li>Why is TN's campaign winning every election?</li>
  				<li>Courageous thing that I recently read</li>
  				<li>Defense Of The Ancient - A 1.2k mmr perspective.</li>
  				<li>Too much philosophy in one page</li>
  				<li>The loss for gain</li>
- 				<li>‘The Da Vinci Code’ by Dan Brown</li>
+ 				<li>'The Da Vinci Code' by Dan Brown</li>
  			</ul>
  		</li>
  		<li>Other places I love and hang out:
