@@ -20,11 +20,11 @@
  		<li>Ideas:
  			<ul>
  				<li>Tamil typeracer</li>
- 				<li>Braille</li>
+ 				<li><a href="braille.html">Tamil Braille</a></li>
  				<li>Time logger</li>
  			</ul>
  		</li>
- 		<li>Miscellaneous:
+ 		<li>Observations - cant help them:
  			<ul>
  				<li>Trignomentry and earth</li>
  			</ul>
@@ -39,7 +39,7 @@
  				<li><a href="onnews.html">On watching/reading news</a></li>
  				<li><a href="seedballs.html">Seed balls</a> - Growing trees naturally</li>
  				<li>Book review - <a href="phantomtollbooth.html">The Phantom Tollbooth</a> by Norton Juster.</li>
- 				<li>Why is TN's campaign winning every election?</li>
+ 				<li><a href="tnelections.html">Why is TN's campaign winning every election?</a></li>
  				<li>Courageous thing that I recently read</li>
  				<li>Defense Of The Ancient - A 1.2k mmr perspective.</li>
  				<li>Too much philosophy in one page</li>
@@ -55,6 +55,6 @@
  	</ul>
  	<p>To email me, use "sanjeynithin@gmail.com".</p>
  	<hr>
- 	<address>Written by: <a href="http://www.sanjeyj.herokuapp.com">Nithin Sanjey</a> Last Modified: Apr 1, 2018</address>
+ 	<address>Written by: <a href="http://www.sanjeyj.herokuapp.com">Nithin Sanjey</a> Last Modified: Apr 4, 2018</address>
  </body>
 </html>
