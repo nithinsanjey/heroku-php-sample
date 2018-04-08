@@ -1,18 +1,14 @@
 <html>
  <head>
-  <title>Nithin Sanjey's Home page</title>
+  	<title>Nithin Sanjey's Home page</title>
+  	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
  </head>
  <body>
  	<h1>Nithin Sanjey</h1>
  	<p>Here you can find some of the articles that I've written</p>
  	<ul>
- 		<li>Technology views:
- 			<ul>
- 				<li>Why I used <a href="jquery.html">Jquery?</a></li>
- 				<li>My wonder on <a href="watson.html">IBM Watson's</a> demo</li>
- 			</ul>
- 		</li>
- 		<li>Special guest articles:
+ 		<li>Guest articles:
  			<ul>
  				<li>UV Sankar's <a href="most-out-of-ceg.html">"Getting most out of CEG"</a>.</li>
  			</ul>
@@ -24,8 +20,15 @@
  				<li>Time logger</li>
  			</ul>
  		</li>
- 		<li>Observations - cant help them:
+ 		<li>Tamil:
  			<ul>
+ 				<li><a href="tamil.html">விடைபெற்று வருகிறென்</a> - வர்ணணை.</li>
+ 			</ul>
+ 		</li>
+ 		<li>Observations and views
+ 			<ul>
+ 				<li>Why I used <a href="jquery.html">Jquery?</a></li>
+ 				<li>My wonder on <a href="watson.html">IBM Watson's</a> demo</li>
  				<li>Trignomentry and earth</li>
  			</ul>
  		</li>
