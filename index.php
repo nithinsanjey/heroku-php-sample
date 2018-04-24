@@ -43,9 +43,9 @@
  				<li><a href="seedballs.html">Seed balls</a> - Growing trees naturally</li>
  				<li>Book review - <a href="phantomtollbooth.html">The Phantom Tollbooth</a> by Norton Juster.</li>
  				<li><a href="tnelections.html">Why is TN's campaign winning every election?</a></li>
- 				<li>Courageous thing that I recently read</li>
- 				<li>Defense Of The Ancient - A 1.2k mmr perspective.</li>
- 				<li>Too much philosophy in one page</li>
+ 				<li><a href="readersdigest.html">Courageous thing that I recently read</a></li>
+ 				<li><a href="dota2.html">Defense Of The Ancient - A 1.2k mmr perspective.</a></li>
+ 				<li><a href="cthehardway.html">Too much philosophy in one page</a></li>
  				<li>The loss for gain</li>
  				<li>'The Da Vinci Code' by Dan Brown</li>
  			</ul>
@@ -58,6 +58,6 @@
  	</ul>
  	<p>To email me, use "sanjeynithin@gmail.com".</p>
  	<hr>
- 	<address>Written by: <a href="http://www.sanjeyj.herokuapp.com">Nithin Sanjey</a> Last Modified: Apr 8, 2018</address>
+ 	<address>Written by: <a href="http://www.sanjeyj.herokuapp.com">Nithin Sanjey</a> Last Modified: Apr 24, 2018</address>
  </body>
 </html>
