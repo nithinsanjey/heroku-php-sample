@@ -15,7 +15,8 @@
  		</li>
  		<li>Ideas:
  			<ul>
- 				<li>Tamil typeracer</li>
+ 				<li><a href="learntamiltyping.html">Tamil typing trainer</a></li>
+ 				<li>Tamil type racer</li>
  				<li><a href="braille.html">Tamil Braille</a></li>
  				<li>Time logger</li>
  			</ul>
