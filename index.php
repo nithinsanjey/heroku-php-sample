@@ -13,15 +13,6 @@
         <li>UV Sankar's <a href="most-out-of-ceg.html">"Getting most out of CEG"</a>.</li>
       </ul>
     </li>
-    <li>Ideas:
-      <ul>
-        <li><a href="learntamiltyping.html">Typing trainer</a> - Tamil</li>
-        <li><a href="tamiltyperacer.html">Type racer</a> - Tamil</li>
-        <li><a href="braille.html">Braille</a></li>
-        <li>Time logger</li>
-        <li>Multiple branch <a href="chatapp.html">chat application</a></li>
-      </ul>
-    </li>
     <li>Tamil:
       <ul>
         <li><a href="tamil.html">விடைபெற்று வருகிறென்</a> - வர்ணணை.</li>
@@ -50,6 +41,15 @@
         <li><a href="cthehardway.html">Too much philosophy in one page</a></li>
         <li><a href="lossforgain.html">The loss for gain</a></li>
         <li>Book review - <a href="davincicode.html">'The Da Vinci Code'</a> by Dan Brown</li>
+      </ul>
+    </li>
+    <li>Few ideas:
+      <ul>
+        <li><a href="learntamiltyping.html">Typing trainer</a> - Tamil</li>
+        <li><a href="tamiltyperacer.html">Type racer</a> - Tamil</li>
+        <li><a href="braille.html">Braille</a></li>
+        <li>Time logger</li>
+        <li>Multiple branch <a href="chatapp.html">chat application</a></li>
       </ul>
     </li>
     <li>Other places I love and hang out:
