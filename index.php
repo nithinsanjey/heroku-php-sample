@@ -43,7 +43,7 @@
         <li>Book review - <a href="davincicode.html">'The Da Vinci Code'</a> by Dan Brown</li>
       </ul>
     </li>
-    <li>Few ideas:
+    <li>Ideas:
       <ul>
         <li><a href="learntamiltyping.html">Typing trainer</a> - Tamil</li>
         <li><a href="tamiltyperacer.html">Type racer</a> - Tamil</li>
@@ -52,14 +52,14 @@
         <li>Multiple branch <a href="chatapp.html">chat application</a></li>
       </ul>
     </li>
-    <li>Other places I love and hang out:
+    <li>Other places I used to hang out:
       <ul>
-        <li><a href="https://www.reddit.com/r/DotA2/">Reddit dota2</a> - really helps me come out of DotA</li>
+        <li><a href="https://www.reddit.com/r/DotA2/">Reddit dota2</a> - really helped me come out of DotA</li>
       </ul>
     </li>
   </ul>
-  <p>To email me, use "sanjeynithin@gmail.com".</p>
+  <p>To email me, use "nithinsanjey@zoho.com".</p>
   <hr>
-  <address>Written by: <a href="#">Nithin Sanjey</a> Last Modified: Apr 30, 2018</address>
+  <address>Written by: <a href="#">Nithin Sanjey</a> Last Modified: Jun 4, 2018</address>
  </body>
 </html>
